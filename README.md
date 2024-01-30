@@ -1,5 +1,7 @@
 # Material for NEST-related tutorial at LASCON IX
 
+This material is publicly available at https://github.com/Lascon2024/nest_tutorials.
+
 | :memo:  Please **fork** this repo and then clone the fork. |
 |------------------------------------------------------------|
 | :zap:  **Do not clone this repo directly.** |
